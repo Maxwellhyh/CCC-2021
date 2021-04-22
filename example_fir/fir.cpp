@@ -1,6 +1,4 @@
 /*
-	Filename: fir.cpp
-		FIR lab wirtten for WES/CSE237C class at UCSD.
 
 	INPUT:
 		x: signal (chirp)

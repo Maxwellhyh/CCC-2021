@@ -1,6 +1,5 @@
 /*
 	Filename: fir_test.h
-		FIR lab wirtten for WES/CSE237C class at UCSD.
 		Testbench file
 		Calls fir() function from fir.cpp
 		Compares the output from fir() with out.gold.dat
