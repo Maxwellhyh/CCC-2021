@@ -15,9 +15,6 @@ void fir (
   data_t x
   )
 {
-#pragma HLS INTERFACE s_axilite port=return bundle=ap_start
-#pragma HLS INTERFACE s_axilite port=y
-#pragma HLS INTERFACE s_axilite port=x
 	coef_t c[N] = {53, 0, -91, 0, 313, 500, 313, 0, -91, 0,53};
 	static
 	data_t shift_reg[N];

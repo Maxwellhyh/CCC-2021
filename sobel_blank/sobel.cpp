@@ -15,7 +15,7 @@ static PIXEL sobel3x3_kernel(PIXEL WB[3][3])
 	//Insert your code here
 }
 
-void sobel(PIXEL* src, PIXEL* dst, int rows, int cols)
+void sobel(PIXEL src[HEIGHT*WIDTH], PIXEL dst[(HEIGHT-2)*(WIDTH-2)], int rows, int cols)
 {
 	//Insert your code here
 }
