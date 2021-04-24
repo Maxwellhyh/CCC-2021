@@ -1,6 +1,5 @@
 - **快速傅立叶变换(FFT)**  
-  1）	框架代码下载  
-  >下载链接  
+  1）	框架代码说明
     您可以直接在框架代码中“//Insert your code here”处实现算法基本功能，也可以根据您的设计对其适当的修改。  
     但请注意：
     **您必须保持顶层函数“void fft(DTYPE X_R[SIZE], DTYPE X_I[SIZE], DTYPE OUT_R[SIZE], DTYPE OUT_I[SIZE]) ”不变。**
